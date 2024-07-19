@@ -1,8 +1,7 @@
 ## Olá! Eu sou Luis Alberto
 
-- 🔭 Foco em front-end
-- 🌱 Estudando JavaScript
-- 😄 Pronomes: ele/dele
+- 📱 Foco em front-end
+- ✍🏽 Estudando JavaScript
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oluiscruz&show_icons=true&theme=radical)
