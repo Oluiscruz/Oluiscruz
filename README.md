@@ -2,6 +2,7 @@
 
 - 📱 Foco em front-end
 - ✍🏽 Estudando JavaScript
+- cursando: Bacharelado em Ciência da computação
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oluiscruz&show_icons=true&theme=radical)
