@@ -1,32 +1,37 @@
-## Olá! Eu sou Luis Alberto
+# Oluisdev
+***Olá eu sou Luis Alberto, tenho 20 anos e curso Ciência Da Computação***
+# Me acompanhe 
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=cd1069)](https://www.instagram.com/oluisdev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluiscruz/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:oluiscruz25@gmail.com)
 
-- 📱 Foco em front-end
-- ✍🏽 Estudando JavaScript
-- cursando: Bacharelado em Ciência da computação
+# Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=blue)
+![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=red)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
 
+- **Marcação e estilização**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oluiscruz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluiscruz&layout=compact&theme=radical)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=orangwe)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 
-<div style="display:inline_block"><br>
-<img align="center" alt="LS-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>.
-<img align="center" alt="LS-CS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/.
-<img align="center" alt="LS-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg"/>.
-<img align="center" alt="LS-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-</div>                 
-          
- ##
+- **Bibliotecas e Frameworks**
 
-<div>
-  <a href="https://w.app/Oluiscruz" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/luis-alberto-cruz-batista-8b0b2526a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/oluiscruz_/?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://x.com/olu1scruz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="[https://x.com/olu1scruz](https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail/&service=mail&ec=GBRAFw)" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/-boostrap-000?style=for-the-badge&logo=bootstrap&labelColor=000)
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-          
+# Github Status
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oluiscruz&theme=transparent&bg_color=000&border_color=white&show_icons=true&icon_color=&title_color=blue&text_color=FFF)
 
+# Projetos básicos
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=oluiscruz&repo=movies-app&bg_color=000&border_color=white&show_icons=true&icon_color=&title_color=blue&text_color=FFF)](https://github.com/oluiscruz/movies-app)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=oluiscruz&repo=BobMarley&bg_color=000&border_color=white&show_icons=true&icon_color=&title_color=blue&text_color=FFF)](https://github.com/oluiscruz/BobMarley)
 
+# Minhas Contribuições
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=oluiscruz&repo=dio-lab-open-source&bg_color=000&border_color=white&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/oluiscruz/dio-lab-open-source)
