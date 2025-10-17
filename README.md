@@ -16,7 +16,7 @@
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-000?style=for-the-badge&logo=bootstrap&labelColor=000)
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Sass](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=sass&logoColor=white)
+![Sass](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=sass&logoColor=red)
 
 # Github Status
 
