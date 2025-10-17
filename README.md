@@ -7,7 +7,7 @@
 
 # Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=blue)
+![Python](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=python&logoColor=)
 ![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=red)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
 
@@ -16,6 +16,7 @@
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-000?style=for-the-badge&logo=bootstrap&labelColor=000)
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Sass](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=sass&logoColor=white)
 
 # Github Status
 
