@@ -1,5 +1,8 @@
 # Oluisdev
-*Olá eu sou Luis Alberto, tenho 20 anos e curso Ciência Da Computação*
+*Olá eu sou Luis Alberto, tenho 20 anos e curso Ciência Da Computação.
+Sou Desenvolvedor Full Stack em formação com foco em criar aplicações modernas e robustas.
+Tenho experiência na construção de aplicações web completas, desde o front-end até integração com APIs e banco de dados.
+*
 # Me acompanhe 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=cd1069)](https://www.instagram.com/oluisdev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluiscruz/)
