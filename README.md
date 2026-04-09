@@ -22,9 +22,6 @@ Tenho experiência na construção de aplicações web completas, desde o front-
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=cd1069)
 
-# Github Status
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oluiscruz&theme=transparent&bg_color=000&border_color=white&show_icons=true&icon_color=&title_color=blue&text_color=FFF)
 
 # Minhas Contribuições
 
